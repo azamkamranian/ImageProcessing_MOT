@@ -1,4 +1,4 @@
-# ImageProcessing: Multi Object Tracker
+# Image Processing: Multi Object Tracker
 Objective of multiple object tracking (MOT) is to assign a unique track identity for all the objects of interest in a video, across the whole sequence.
 
 # USAGE:
