@@ -1,9 +1,3 @@
-# USAGE
-# python object_tracker.py --prototxt deploy.prototxt --model res10_300x300_ssd_iter_140000.caffemodel
-# python mask_rcnn_segmentation.py --input .. --output .. --display 1 --mask-rcnn mask-rcnn-coco
-# python object_tracker_video.py --input test.mp4 --output test2_new.mp4 --mask-rcnn mask-rcnn-coco
-
-
 # import the necessary packages
 from pyimagesearch.centroidtracker import CentroidTracker
 from imutils.video import VideoStream
